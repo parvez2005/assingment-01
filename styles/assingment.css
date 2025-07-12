@@ -157,3 +157,24 @@ padding: 12px 36px;
 .reviewer-date{
     color: #B3B3B3;
 }
+.reviewer-intro{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 2px;
+   
+}
+.review-card{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.optional{
+    width: 1140px;
+    height: 700px;
+    background-color: #ffffff;
+    margin-top: 140px;
+    margin-left: 110px;
+    margin-right: 140px;
+    margin-bottom: 100px;
+    border-radius: 14px;
+}
