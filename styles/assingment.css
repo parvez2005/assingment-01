@@ -34,6 +34,12 @@ color: white;
 font-weight: bold;
 border-radius: 5px;
 border: none;
+padding: 12px 36px;
+}
+.sign-up-btn{
+    padding-top: 39px;
+    
+
 }
 .primary-color{
     color: #4E47FF;
@@ -179,6 +185,7 @@ padding: 12px 36px;
     border-radius: 14px;
     text-align: center;
     gap: 20px;
+    
 }
 .optional-btn{
          background-color: #4E47FF;
@@ -207,4 +214,90 @@ padding: 12px 36px;
 }
 .touch-section{
     display: flex;
+    gap: 115px;
+    padding: 90px 200px;
+}
+.touch-title{
+    
+    gap: 20px;
+    padding-top: 100px;
+}
+.touch-header{
+font-size: 97px;
+    font-weight: bold;
+}
+.touch-form{
+    width: 50%;
+    
+   
+}
+.get-in-touch{
+    padding: 20px 100px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+     background-color: #4E47FF;
+     color: white;
+     font-weight: bold;
+     border: none;
+}
+.touch-form input[type="text"],.touch-form input[type="email"]{
+    display: block;
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+    height: 70px;   
+    border: none;
+}
+.label{
+    font-weight:500;
+    font-size: 18px;
+}
+.touch-form textarea{
+    height: 136px;
+    display: block;
+    border: none;
+    width: 100%;
+    border-radius: 10px;
+}
+.footer-title{
+    font-weight: 900;
+    font-size: 100px;
+
+}
+.footer-description{
+    color: #8987A1;
+}
+li{
+    color: #8987A1;
+    list-style: none;
+}
+.footer-li,ul,li {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.footer{
+    text-align: center;
+    padding: 105px 250px;
+    background-color: #FFFFFF;
+    line-height: 18px;
+
+}
+.hover{
+ background-color: #468ECC;
+transition: 0.5s;
+padding: 10px 30px;
+
+}
+.hover-btn{
+    display: flex;
+justify-content: center;
+margin-top: 20px;
+margin-bottom: 30px;
+}
+.hover:hover{
+    font-size: 18px;
+   
+    background-color: yellow;
 }
