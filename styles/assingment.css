@@ -170,11 +170,41 @@ padding: 12px 36px;
 }
 .optional{
     width: 1140px;
-    height: 700px;
+    height: 630px;
     background-color: #ffffff;
     margin-top: 140px;
     margin-left: 110px;
     margin-right: 140px;
-    margin-bottom: 100px;
+    margin-bottom:90px;
     border-radius: 14px;
+    text-align: center;
+    gap: 20px;
+}
+.optional-btn{
+         background-color: #4E47FF;
+color: white;
+font-weight: bold;
+border-radius: 5px;
+border: none;
+padding: 12px 36px;
+}
+.optional-img{
+    display: block;
+    padding-top: 20px;
+   padding-left: 150px;
+   padding-right: 150px;
+   
+}
+.optional-headline{
+    padding-top: 70px;
+}
+
+.optional-img{
+    border-radius: 16%;
+}
+.optional-btn{
+    pa
+}
+.touch-section{
+    display: flex;
 }
